@@ -1,0 +1,43 @@
+#titulo, #menu, #menu-item {
+    display: inline-block;
+}
+
+#titulo {
+    margin-left: 5%;
+    margin-right: 25%;
+}
+
+#cabecalho {
+    background-color: red;
+    text-align: center;
+    margin-top: 0px;
+}
+
+#rodape{
+    background-color: black;
+    text-align: center;
+    color: white;
+    margin-block-start: 20px;
+}
+
+#coluna{
+    display: inline-block;
+}
+
+#postagens{
+    display: inline-block;
+}
+
+#assinar,#social,#anuncios{
+    margin-block-start: 20px;
+}
+#conteudo {
+    text-align: center;
+    margin-block-start: 10px;
+}
+.comunidade{
+    text-decoration-color: blue;
+}
+button {
+    background-color: red;
+}
